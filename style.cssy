@@ -1,0 +1,67 @@
+p {
+    color: red;
+}
+
+h1 {
+    color: yellow;
+    background-color: blue;
+}
+
+body {
+    font-size: 14px;
+    color: navy;
+}
+
+h1 {
+    color: #ffc;
+    background-color: #009;
+}
+
+body {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 14px;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+a {
+    text-decoration: none;
+}
+
+strong {
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 1.5em;
+    background-color: #ccc;
+    margin: 20px;
+    padding: 40px;
+}
+
+#top {
+    background-color: #ccc;
+    padding: 20px
+}
+
+.intro {
+    color: red;
+    font-weight: bold;
+}
+
+<div id="top">
+
+<h1>Chocolate curry</h1>
+
+<p class="intro">This is my recipe for making curry purely with chocolate</p>
+
+<p class="intro">Mmm mm mmmmm</p>
+
+</div>
